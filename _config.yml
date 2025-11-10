@@ -61,16 +61,16 @@ author:
   name   : "َAryan Abrari Vajari"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "M.Sc. at ETS"
-  location: "Montreal, QC, Canada"
+  location: "Montreal, Canada"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AryanAbrari"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
-      url: "www.linkedin.com/in/aryan-abrari-vajari-a938827b"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aryan-abrari-vajari-a938827b/"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fas fa-envelope"
       url: "aryan.abrari-vajari.1@ens.etsmtl.ca"
 
 footer:
@@ -79,10 +79,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AryanAbrari"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn"
-      url: "www.linkedin.com/in/aryan-abrari-vajari-a938827b"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/aryan-abrari-vajari-a938827b/"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
+      icon: "fas fa-envelope"
       url: "aryan.abrari-vajari.1@ens.etsmtl.ca"
 
 defaults:
