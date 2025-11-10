@@ -71,7 +71,7 @@ author:
       url: "https://www.linkedin.com/in/aryan-abrari-vajari-a938827b/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "aryan.abrari-vajari.1@ens.etsmtl.ca"
+      url: "mailto:aryan.abrari-vajari.1@ens.etsmtl.ca"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://www.linkedin.com/in/aryan-abrari-vajari-a938827b/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "aryan.abrari-vajari.1@ens.etsmtl.ca"
+      url: "mailto:aryan.abrari-vajari.1@ens.etsmtl.ca"
 
 defaults:
   # _posts
